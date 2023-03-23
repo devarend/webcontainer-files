@@ -1,0 +1,2 @@
+/** @satisfies {import('@webcontainer/api').FileSystemTree} */
+export const files = {"test1":{"directory":{"test2":{"directory":{"testfile2.js":{"file":{"contents":"const test2 = \"test2\";\n"}}}},"testfile1.js":{"file":{"contents":"const test1 = \"test1\";\n"}}}}}
