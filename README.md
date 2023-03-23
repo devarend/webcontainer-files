@@ -7,7 +7,8 @@
 <h4 align="center">Transforms a directory with files into a webcontainer files file</h4>
 
 ## IN PROGRESS
-Work in progress
+Work in progress transform file can be found <a href="https://github.com/devarend/webcontainer-files/blob/main/transform.js" target="_blank">here</a>
+
 
 ```
 MIT License
